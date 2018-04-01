@@ -1,0 +1,2 @@
+# latestnews
+Sample News Project
