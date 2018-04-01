@@ -1,0 +1,19 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background-color: #F1FAEE;
+}
+
+.highlight{
+	background-color: #457B9D;
+}
+
+.highlight_item{
+	background-color: #F1FAEE;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.video{
+	background-color: #2B2D42;
+}
